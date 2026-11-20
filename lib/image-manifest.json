@@ -1,0 +1,214 @@
+{
+ "/images/logo.jpg": {
+  "w": 1023,
+  "h": 1023,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1023
+  ],
+  "base": "/images/_opt/logo.4ad2393fcd",
+  "stamp": "4ad2393fcd"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.589c464116",
+  "stamp": "589c464116"
+ },
+ "/images/post-1.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-1.9b640689b7",
+  "stamp": "9b640689b7"
+ },
+ "/images/post-10.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-10.a990ed0a6e",
+  "stamp": "a990ed0a6e"
+ },
+ "/images/post-11.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-11.2fa8852eea",
+  "stamp": "2fa8852eea"
+ },
+ "/images/post-12.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-12.83789b1fef",
+  "stamp": "83789b1fef"
+ },
+ "/images/post-2.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-2.3871be841e",
+  "stamp": "3871be841e"
+ },
+ "/images/post-3.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-3.d7f7456f7d",
+  "stamp": "d7f7456f7d"
+ },
+ "/images/post-4.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-4.6f470bb35c",
+  "stamp": "6f470bb35c"
+ },
+ "/images/post-5.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-5.58c0e79293",
+  "stamp": "58c0e79293"
+ },
+ "/images/post-6.jpg": {
+  "w": 941,
+  "h": 1254,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   941
+  ],
+  "base": "/images/_opt/post-6.a2ad34df2f",
+  "stamp": "a2ad34df2f"
+ },
+ "/images/post-7.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-7.745887465a",
+  "stamp": "745887465a"
+ },
+ "/images/post-8.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-8.73ea019191",
+  "stamp": "73ea019191"
+ },
+ "/images/post-9.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-9.3e2882e3d3",
+  "stamp": "3e2882e3d3"
+ }
+}
